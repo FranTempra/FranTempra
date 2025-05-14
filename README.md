@@ -1,9 +1,5 @@
-Fortnite balls,
-im gay,
-i like boys,
-i kidnap autistic kids,
-lil mosey is watching, 
-t-rex.
+Future Data Engineer
+
 <!---
 FranTempra/FranTempra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
